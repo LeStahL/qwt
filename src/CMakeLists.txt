@@ -137,3 +137,4 @@ target_link_libraries(qwt
     Qt5::Gui
     Qt5::Concurrent
 )
+install(TARGETS qwt)
